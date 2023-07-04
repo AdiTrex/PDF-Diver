@@ -12,7 +12,7 @@ Installation
 
 -> Clone the project repository to your local machine.
 -> Ensure you have a SQL database management system installed (e.g., MySQL, PostgreSQL, SQLite).
--> Create a new database and import the census data provided (see the Data section for details).
+-> Create a new database and import the census data provided .
 
 Usage
 
